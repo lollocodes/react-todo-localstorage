@@ -1,2 +1,2 @@
 
-Small project made for practising react and localstorage
+Small project made for practising react, tailwind and localstorage
